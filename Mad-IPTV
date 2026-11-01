@@ -64,4 +64,11 @@ https://wiselp.wiseplayout.com/9X_Jalwa/HD1080/HD1080.m3u8
 #EXTINF:-1 , Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/live/cn_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dommx001/Madmax-IPTV/5a4ff7158f27e8a0a5f7296d4e6525e2616f2a80/desitv.png",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Music",Sangeet Bangla
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5b3d87a168699ad7bb6ac6b304f3de4d.png" group-title="Music",Music India
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/tracks-v1a1/mono.m3u8
